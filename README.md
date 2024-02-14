@@ -5,6 +5,10 @@
 
 ![Glaucivan Pereira GitHub stats](https://github-readme-stats.vercel.app/api?username=Glaucivan&show_icons=true&theme=dark)
 
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glaucivan&layout=compact)](https://github.com/Glaucivan)
+
 ## Languages and Technologies I use in my day
 
 <div style="display: inline_block">
@@ -15,11 +19,6 @@
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></p>
 </div>
-<br>
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glaucivan&layout=compact)](https://github.com/Glaucivan)
-
 <br>
 
 Passionate about technology and the power it has to change people's lives. 🧑🏾‍💻💻 💙
