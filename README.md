@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glaucivanpereira/)
 [![Blog](https://img.shields.io/website?label=GlaucivanPereira.com.br&style=for-the-badge&url=https://glaucivanpereira.com.br)](https://glaucivanpereira.com.br)
 
-![Glaucivan Pereira GitHub stats](https://github-readme-stats.vercel.app/api?username=Glaucivan&show_icons=true&theme=dark)
+![Glaucivan GitHub stats](https://github-readme-stats.vercel.app/api?username=Glaucivan&show_icons=true&theme=dark)
 
 <br>
 
